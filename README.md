@@ -1,4 +1,4 @@
-## Creating a Webpage to Display Personal Information
+## Created a Webpage to Display Personal Information
 
 Name: Jaya Patel
 
