@@ -8,7 +8,7 @@ This project displays personal details using a simple webpage designed with HTML
 
 **Features & Technologies Used:**
 
-HTML Structure — used <section>, <span>, and <p> tags to organize information
+HTML Structure — used section, span, and p tags to organize information
 
 CSS Styling — applied custom fonts, margins, center alignment, and spacing
 
