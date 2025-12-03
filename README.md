@@ -19,3 +19,5 @@ Background Image — added using CSS
 Shows personal details such as name, age, address, and education
 
 Uses clean layout and formatting for readability
+
+[Deployed Link](https://jaya030888.github.io/my-personal-information/)
